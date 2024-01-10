@@ -1,1 +1,1 @@
-# mean-jwt-auth-angular
+# mean-jwt-auth-node
