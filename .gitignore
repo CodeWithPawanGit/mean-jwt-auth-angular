@@ -1,0 +1,34 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# User-specific files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env
+
+# WebStorm
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Node.js generated files
+*.pid
+*.lock
+lib-cov/
+coverage/
+.nyc_output/
+
+# Dependency directories used by tools
+bower_components/
+typings/
+
+# Typescript
+*.tsbuildinfo
+
+# Optional eslint cache
